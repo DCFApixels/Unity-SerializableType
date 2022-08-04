@@ -1,4 +1,4 @@
 # Unity-SerializableType
 Serializable Type class for Unity
 
-![Снимок экрана 2022-08-04 153745](https://user-images.githubusercontent.com/99481254/182793239-a7e8bb90-4425-4ed4-9d78-e360a6320cb2.png)
+![Снимок экрана 2022-08-04 154952](https://user-images.githubusercontent.com/99481254/182793541-ad39212d-6768-439c-982c-7f7bc81a5918.png)
